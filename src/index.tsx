@@ -14,7 +14,7 @@ createServer({
       transactions: [
         {
           id: 1,
-          title: 'Salário Mensal',
+          title: 'Freelancer',
           type: 'deposit',
           category: 'Dev',
           amount: 2400.00,
@@ -24,13 +24,13 @@ createServer({
           id: 2,
           title: 'Aluguel',
           type: 'withdraw',
-          category: 'Despesas Mensais',
+          category: 'Despesas Fixas Mensais',
           amount: 500.00,
           createdAt: new Date('2021-12-07 08:33:00')
         },
         {
           id: 3,
-          title: 'Emprestimo Moto',
+          title: 'Emprestimo',
           type: 'withdraw',
           category: 'Despesas Fixas Mensais',
           amount: 378.00,
@@ -43,15 +43,7 @@ createServer({
           category: 'Despesas Fixas Mensais',
           amount: 110.00,
           createdAt: new Date('2021-12-07 08:33:00')
-        },
-        {
-          id: 5,
-          title: 'Assinatura RocketSeat',
-          type: 'withdraw',
-          category: 'Despesas Fixas Mensais',
-          amount: 68.00,
-          createdAt: new Date('2021-12-07 08:33:00')
-        },      
+        },        
       ],
     })
   },
