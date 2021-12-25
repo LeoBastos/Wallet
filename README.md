@@ -5,11 +5,9 @@ Wallet is a project to manage your finances, allowing you to register entries, e
 Wallet é um projeto para gerenciar suas finanças, permitindo o cadastro de entradas, saídas e a organização das mesmas em categorias.
 
 # :camera: Screenshots
-<div align="center">
-   <img src="./.github/screen1.png" width="400px">
-   <img src="./.github/screen2.png" width="400px">
-   <img src="./.github/screen3.png" width="400px">
-   <img src="./.github/screen4.png" width="400px">
+<div align="center">    
+   <img src="images/foto1.png" width="400px">
+   <img src="images/foto2.png" width="400px">   
 </div>
 
 # :rocket: Technologies
